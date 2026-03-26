@@ -100,7 +100,8 @@ Thứ tụ A-Z theo tên project
 ## Nguồn mở
 - [ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo) [Linux] Bộ gõ được cập nhật thường xuyên và sửa nhiều lỗi thường gặp (lỗi gõ trong browser...)
 - [OpenKey](https://github.com/tuyenvm/OpenKey) [Win / Mac / Linux] Fork of Unikey
-- [NAKL](https://github.com/huyphan/NAKL) [Mac]
+- [NAKL](https://github.com/huyphan/NAKL) [Mac] Objective-C
+- [Gõkey](github.com/huytd/goxkey) [Mac] Rust, modern UI
 
 ## Nguồn đóng
 - [EV Key](https://evkeyvn.com/) [Win / Mac] Fork of Unikey
